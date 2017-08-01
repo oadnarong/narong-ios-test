@@ -11,7 +11,7 @@ Swift 3.x or later
 * Version 0.0.0.1
 
 ### Architecture
-Clean Architecture (Clean Swift)
+* **Clean Swift:** Clean Architecture.
 
 ### Pods plugin
 * **NVActivityIndicatorView:** is a collection of awesome loading animations.
