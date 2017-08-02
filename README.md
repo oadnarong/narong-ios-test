@@ -1,9 +1,9 @@
 # narong-iso-test
 Search places from Google Map API at a given location.
 
-### Prerequisite
-Xcode 8.x or later
-Swift 3.x or later
+### Prerequisite ###
+* Xcode 8.x or later
+* Swift 3.x or later
 
 ### What is this repository for? ###
 
@@ -14,8 +14,8 @@ Swift 3.x or later
 * **Clean Swift:** Clean Architecture.
 
 ### Pods plugin
-* **NVActivityIndicatorView:** is a collection of awesome loading animations.
-
+* **NVActivityIndicatorView:** is a collection of awesome loading animations. Alamofire
+* **Alamofire:** is an HTTP networking library written in Swift.
 
 ### CHANGELOG ###
 
