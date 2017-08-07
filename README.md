@@ -19,6 +19,9 @@ Search places from Google Map API at a given location.
 
 ### CHANGELOG ###
 
+### Version 0.0.0.2
+* **distance Logic:** Get place distance around user.
+
 ### Version 0.0.0.1
 * **Search places by keyword:** User can search places do you want by keyword.
 * **Radius setting:** User can setting radius around you for find new places.
